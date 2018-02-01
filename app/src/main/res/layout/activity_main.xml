@@ -21,11 +21,12 @@
         app:layout_constraintVertical_bias="0.432" />
 
     <Button
-        android:id="@+id/SayHello"
+        android:id="@+id/buttonSubmit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
         tools:layout_editor_absoluteX="54dp"
-        tools:layout_editor_absoluteY="136dp" />
+        tools:layout_editor_absoluteY="136dp"
+        tools:text="Submit" />
 
 </android.support.constraint.ConstraintLayout>
